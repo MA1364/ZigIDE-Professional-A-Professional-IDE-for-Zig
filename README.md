@@ -1,5 +1,6 @@
 ⚡ ZigIDE Professional – A Professional IDE for Zig
 ZigIDE Professional is a lightweight, open source, cross platform Integrated Development Environment (IDE) written in Python with Tkinter, specifically designed for programming in the Zig language. It provides code editing, execution, project management, theme switching, search & replace, and seamless integration with Zig tools – all in a simple, user friendly interface.
+
 ✨ Key Features
 •	🖊 Multi line editor with basic syntax highlighting (extensible)
 •	🎨 Dark / Light theme toggle with one click
@@ -20,6 +21,7 @@ Prerequisites
 •	Zig compiler
 Download Zig and install it. Remember the folder containing zig (or zig.exe).
 Note: On first launch, a dialog will ask you to select the folder where Zig is installed. This is a one time setup.
+
 🚀 User Guide
 1. Main Interface
 •	Toolbar (top): New, Open, Save, Run, Theme buttons.
