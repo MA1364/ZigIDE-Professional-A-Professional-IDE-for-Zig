@@ -19,18 +19,6 @@ Prerequisites
 •	Python 3.7 or higher (optional if you use a packaged executable)
 •	Zig compiler
 Download Zig and install it. Remember the folder containing zig (or zig.exe).
-Installation steps
-1. Get the source code
-bash
-git clone https://github.com/your-username/zigide-professional.git
-cd zigide-professional
-2. Install dependencies (all are part of the standard library, except Tkinter which is bundled with Python)
-bash
-# Only on some Linux distributions that don't ship Tkinter by default
-sudo apt-get install python3-tk   # Debian/Ubuntu
-3. Run the IDE
-bash
-python zigide.py
 Note: On first launch, a dialog will ask you to select the folder where Zig is installed. This is a one time setup.
 🚀 User Guide
 1. Main Interface
